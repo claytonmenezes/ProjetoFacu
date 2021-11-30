@@ -34,8 +34,8 @@ export default defineComponent({
         { title: 'Home', icon: 'home', link: '#/' },
         { title: 'Comprar', icon: 'shopping_cart', link: '#/Comprar' },
         { title: 'Vender', icon: 'sell', link: '#/Vender' },
-        { title: 'Produto', icon: 'category', link: '#/Produto' },
-        { title: 'Estoque', icon: 'inventory', link: '#/Estoque' }
+        { title: 'Estoque', icon: 'category', link: '#/Estoque' },
+        { title: 'Usuário', icon: 'person', link: '#/Usuario' }
       ]),
       leftDrawerOpen,
       toggleLeftDrawer () {
